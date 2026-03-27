@@ -4,7 +4,7 @@ AI chief of staff built with OpenClaw. Runs on Discord.
 Handles morning briefings, email drafting, team Q&A, and fallback responses.
 
 ## Watch the demo
-[4-minute live demo — https://www.loom.com/share/ef05e56d533c4cd2999f7b7d40259d7c]
+~7-minute live demo — https://www.loom.com/share/ef05e56d533c4cd2999f7b7d40259d7c
 
 ## What it does
 - Morning briefing with company context and priorities
